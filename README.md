@@ -2,10 +2,12 @@
 <hr>
 <p style="text-align: left;"><H1>Hi everyone my name is junha cha🙋🏻‍♂️🇰🇷</H1><br></p>
 <hr>
-🏢My School🏢 I am a student at Gachon University Seongnam Campus, and my major is software.<br>
-⚡️My Vision⚡️ A robotics engineer who creates an era in which humans don't hard work<br>
-🗺️My Military🗺️ Discharged after serving in DMZ as a Special Reconnaissance Squad(2022.01.11~2023.07.10)<br>
-<br><div align="center"><br>
+<ul>
+	<li>🏢My School🏢 I am a student at Gachon University Seongnam Campus, and my major is software.<br></li>
+	<li>⚡️My Vision⚡️ A robotics engineer who creates an era in which humans don't hard work<br></li>
+	<li>🗺️My Military🗺️ Discharged after serving in DMZ as a Special Reconnaissance Squad(2022.01.11~2023.07.10)<br></li>
+</ul>
+	<br><div align="center"><br>
 	<h3>🛠️MY Tool🛠️</h3>
 	<img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 	<img src="https://img.shields.io/badge/VSstudio-5C2D91?style=flat&logo=visualstudio&logoColor=white" />
