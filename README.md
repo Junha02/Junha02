@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=header&text=Welcome%20MyGit&animation=blinking&fontSize=50" />
+												<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=header&text=Welcome%20MyGit&animation=blinking&fontSize=50" />
 <hr>
 <H1>Hi everyone my name is junha cha🙋🏻‍♂️</H1><br>
 <hr>
@@ -13,5 +13,6 @@
 	<img src="https://img.shields.io/badge/C_Language-A8B9CC?style=flat&logo=c&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   </div>
-
-
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true">
+																					
