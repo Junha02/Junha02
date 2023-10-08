@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=130&section=header&text=Wellcome%20mygit&animation=twinkling&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=130&section=header&text=Wellcome%20mygit&animation=blinking&fontSize=80" />
 <hr>
 <H1>Hi everyone my name is junha cha🙋🏻‍♂️</H1><br>
 <hr>
