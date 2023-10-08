@@ -20,10 +20,16 @@
 	<img src="https://img.shields.io/badge/C_Language-A8B9CC?style=flat&logo=c&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 </div>
-<div>
-	<img src="https://github-readme-stats.vercel.app/api?username=ckwnsgk&show_icons=true">
-</div>
-<div>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckwnsgk&layout=compact"><br><br>
+<div align=center>
+	<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycasdzxc&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=kycasdzxc&show_icons=true">
+
+![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=kycasdzxc)
+
+<br>
+<p>🏆 Baekjoon solved rank 🏆</p>
+	
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kycasdzxc)](https://solved.ac/kycasdzxc)
 </div>
 
