@@ -26,4 +26,12 @@
 <div style="border: 1px solid red; float: left; width: 50%;">
 	<img src="https://github-readme-stats.vercel.app/api?username=ckwnsgk&show_icons=true">
 </div>
-
+<div style="border: 1px solid gold; float: left; width: 33%;">
+첫번째 영역
+</div>
+<div style="border: 1px solid red; float: left; width: 33%;">
+두번째 영역
+</div>
+<div style="border: 1px solid blue; float: left; width: 33%;">
+세번째 영역
+</div>
