@@ -13,5 +13,4 @@
 	<img src="https://img.shields.io/badge/C_Language-A8B9CC?style=flat&logo=c&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckwnsgk)](https://github.com/anuraghazra/github-readme-stats)
-																					
+
