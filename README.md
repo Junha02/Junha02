@@ -20,18 +20,11 @@
 	<img src="https://img.shields.io/badge/C_Language-A8B9CC?style=flat&logo=c&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 </div>
-<div style="border: 1px solid gold; float: left; width: 50%;">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckwnsgk&layout=compact"><br><br>
-</div>
-<div style="border: 1px solid red; float: left; width: 50%;">
-	<img src="https://github-readme-stats.vercel.app/api?username=ckwnsgk&show_icons=true">
-</div>
-<div style="border: 1px solid gold; float: left; width: 33%;">
-첫번째 영역
-</div>
-<div style="border: 1px solid red; float: left; width: 33%;">
-두번째 영역
-</div>
-<div style="border: 1px solid blue; float: left; width: 33%;">
-세번째 영역
+<div style="float: left;">
+	<div style="float: left;">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckwnsgk&layout=compact"><br><br>
+	</div>
+	<div style="float: left;">
+		<img src="https://github-readme-stats.vercel.app/api?username=ckwnsgk&show_icons=true">
+	</div>
 </div>
