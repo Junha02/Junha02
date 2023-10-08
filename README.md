@@ -3,9 +3,9 @@
 <p style="text-align: left;"><H1>Hi everyone my name is junha cha🙋🏻‍♂️🇰🇷</H1><br></p>
 <hr>
 <ul>
-	<li>🏢My School🏢 I am a student at Gachon University Seongnam Campus, and my major is software.<br></li>
-	<li>⚡️My Vision⚡️ A robotics engineer who creates an era in which humans don't hard work<br></li>
-	<li>🗺️My Military🗺️ Discharged after serving in DMZ as a Special Reconnaissance Squad(2022.01.11~2023.07.10)<br></li>
+	<li> 🏢My School🏢 I am a student at Gachon University Seongnam Campus, and my major is software.<br></li>
+	<li> ⚡️My Vision⚡️ A robotics engineer who creates an era in which humans don't hard work<br></li>
+	<li> 🗺️My Military🗺️ Discharged after serving in DMZ as a Special Reconnaissance Squad(2022.01.11~2023.07.10)<br></li>
 </ul>
 	<br><div align="center"><br>
 	<h3>🛠️MY Tool🛠️</h3>
