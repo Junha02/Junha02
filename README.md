@@ -20,4 +20,14 @@
 	<img src="https://img.shields.io/badge/C_Language-A8B9CC?style=flat&logo=c&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 </div>
- 
+ <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ckwnsgk&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ckwnsgk&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ckwnsgk&show_icons=true" />
+</picture>
