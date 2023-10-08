@@ -21,9 +21,7 @@
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 </div>
 <div>
-	<div style="float=left;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckwnsgk&layout=compact"><br><br></div>
-	<div style="float=left;"><img src="https://github-readme-stats.vercel.app/api?username=ckwnsgk&show_icons=true"></div>
+	<div style="float:left;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckwnsgk&layout=compact"><br><br></div>
+	<div style="float:left;"><img src="https://github-readme-stats.vercel.app/api?username=ckwnsgk&show_icons=true"></div>
 </div>
-
-
 
