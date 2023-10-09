@@ -22,7 +22,7 @@
 		<img src="https://img.shields.io/badge/C_Language-A8B9CC?style=flat&logo=c&logoColor=white" />
 		<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 </div><br><br>
-<div align="center"><br>
+<div align="center"><br></br>
 	<img src="https://github-readme-stats.vercel.app/api?username=ckwnsgk&show_icons=true">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckwnsgk&layout=compact">
 </div>
