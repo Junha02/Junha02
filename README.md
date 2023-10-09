@@ -21,6 +21,7 @@
 		<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
 		<img src="https://img.shields.io/badge/C_Language-A8B9CC?style=flat&logo=c&logoColor=white" />
 		<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+		<img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white" />
 </div><br><br>
 <div align="center"><br></br>
 	<img src="https://github-readme-stats.vercel.app/api?username=ckwnsgk&show_icons=true">
