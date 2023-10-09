@@ -27,5 +27,15 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=ckwnsgk&show_icons=true&theme=dark">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckwnsgk&layout=compact&theme=dark">
 </div>
-<p>🏆 Baekjoon solved rank 🏆</p>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckwnsgk)](https://solved.ac/ckwnsgk)<br>
+
+
+
+<div align=center><br><br>
+<p>🏅 Baekjoon 🏅</p>
+	
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckwnsgk)](https://solved.ac/ckwnsgk)
+</div>
+<br>
+
+![](./profile-3d-contrib/profile-season-animate.svg)
+
