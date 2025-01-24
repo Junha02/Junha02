@@ -3,6 +3,7 @@
 <p style="text-align: left;"><H1>Hi everyone my name is junha cha🙋🏻‍♂️🇰🇷</H1><br></p>
 <hr>
 <ul>
+	<li> 노동으로부터의 자유, 물류 자동화를 꿈꾸는 로봇개발자 입니다.</li>
 	<li> 🏢My School🏢 I am a student at Gachon University Seongnam Campus, and my major is software.<br></li>
 	<li> ⚡️My Vision⚡️ A robotics engineer who creates an era in which humans don't hard work<br></li>
 </ul>
