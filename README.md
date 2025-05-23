@@ -3,7 +3,7 @@
 <p style="text-align: left;"><H1>Hi everyone my name is junha cha🙋🏻‍♂️🇰🇷</H1><br></p>
 <H3>My Github.io : https://junha02.github.io/</H3>
 <p align="left">
-  <img src="gitio.png" alt="프로젝트 다이어그램" width="700" height="400"/>
+  <img src="gitio.png" alt="프로젝트 다이어그램" width="600" height="350"/>
 </p>
 <hr>
 <ul>
