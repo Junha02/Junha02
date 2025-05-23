@@ -2,6 +2,9 @@
 <hr>
 <p style="text-align: left;"><H1>Hi everyone my name is junha cha🙋🏻‍♂️🇰🇷</H1><br></p>
 <H3>My Github.io : https://junha02.github.io/</H3>
+<p align="left">
+  <img src="gitio.png" alt="프로젝트 다이어그램" width="700" height="400"/>
+</p>
 <hr>
 <ul>
 	<li> 노동으로부터의 자유, 사람이 위험한 일을 그만하는 그날 까지 나아가는 로봇개발자 입니다.</li>
