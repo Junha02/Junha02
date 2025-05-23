@@ -24,8 +24,8 @@
 		<img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white" />
 </div><br><br>
 <div align="center"><br></br>
-	<img src="https://github-readme-stats.vercel.app/api?username=ckwnsgk&show_icons=true&theme=dark">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckwnsgk&layout=compact&theme=dark">
+	<img src="https://github-readme-stats.vercel.app/api?username=Junha02&show_icons=true&theme=dark">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junha02&layout=compact&theme=dark">
 </div>
 <br>
 
