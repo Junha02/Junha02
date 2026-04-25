@@ -8,7 +8,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=80&lines=%22Freedom+From+Work%22;Building+robots+that+free+humans+from+dangerous+%26+demanding+labor." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=80&lines=%22Freedom+From+Work%22;" />
 </div>
 <br>
 
