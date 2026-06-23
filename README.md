@@ -1,27 +1,43 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=220&section=header&text=Junha%20Cha&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Robotics%20Researcher%20%7C%20Freedom%20From%20Work&descSize=18&descColor=8b949e&descAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:862633,100:8B0029&height=230&section=header&text=Junha%20Cha&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Robot%20Intelligence%20Lab%20%40%20Korea%20University&descSize=18&descColor=F3E8EA&descAlignY=55" width="100%" />
 </div>
+
 <div align="center">
-  <a href="https://junha02.github.io"><img src="https://img.shields.io/badge/Portfolio-junha02.github.io-58a6ff?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
-  <a href="mailto:chajunha2023@naver.com"><img src="https://img.shields.io/badge/Email-chajunha2023-03C75A?style=for-the-badge&logo=naver&logoColor=white" /></a>
+  <a href="https://junha02.github.io"><img src="https://img.shields.io/badge/Portfolio-junha02.github.io-862633?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="mailto:ckwnsgk1@gachon.ac.kr"><img src="https://img.shields.io/badge/Email-ckwnsgk1%40gachon.ac.kr-8B0029?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:chajunha2023@naver.com"><img src="https://img.shields.io/badge/Naver-chajunha2023%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/junha-cha/"><img src="https://img.shields.io/badge/LinkedIn-Junha%20Cha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
+
 <br>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=80&lines=%22Freedom+From+Work%22;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=862633&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=80&lines=Intelligent+Manipulation+%C2%B7+Tele-operation+%C2%B7+Autonomy;%22Freedom+From+Work%22" />
 </div>
+
 <br>
 
 ## 🧬 About
 
-> Undergraduate Researcher focused on **Intelligent Manipulation** for achieving **Human-Level Intelligence** in robotics.
-
-| | |
-|---|---|
-| 🔬 **Research** | [Robot Intelligence Lab (RILAB)](https://sites.google.com/view/sungjoon-choi/home) @ Korea University — Supervised by Prof. Sungjoon Choi |
-| 🏢 **Industry** | Former AI Software Team Intern @ [ROBOTIS](https://www.robotis.com/) — Main contributor to OMX product launch |
-| 🧪 **Lab** | Former RA @ [iRASC Lab](https://sites.google.com/view/irasc/home), Gachon University |
-| 🎓 **Education** | BS in AI & Software, Gachon University (Expected 2027) · GPA 4.35/4.5 |
+<table>
+  <tr>
+    <td width="160"><b>🧪 Lab</b></td>
+    <td>
+      <b>Current</b> · <a href="https://sites.google.com/view/sungjoon-choi/home">Robot Intelligence Lab (RILAB)</a> @ Korea University<br>
+      <sub>Supervised by Prof. Sungjoon Choi</sub><br><br>
+      <b>Former</b> · RA @ <a href="https://sites.google.com/view/irasc/home">iRASC Lab</a>, Gachon University<br>
+      <sub>Supervised by Prof. Jaeyong Choi</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🏢 Industry</b></td>
+    <td>Former AI Software Team Intern @ <a href="https://www.robotis.com/">ROBOTIS</a></td>
+  </tr>
+  <tr>
+    <td><b>🎓 Education</b></td>
+    <td>BS in AI & Software, Gachon University (Expected 2027) · GPA 4.35/4.5</td>
+  </tr>
+</table>
 
 <br>
 
@@ -54,21 +70,11 @@
 ## 🔍 Research Interests
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Robot%20Manipulation-0d1117?style=for-the-badge&logo=probot&logoColor=58a6ff" />
-  <img src="https://img.shields.io/badge/Human--Robot%20Interaction-0d1117?style=for-the-badge&logo=probot&logoColor=58a6ff" />
-  <img src="https://img.shields.io/badge/Embodied%20AI-0d1117?style=for-the-badge&logo=probot&logoColor=58a6ff" />
-</div>
-
-<br>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Robot%20Manipulation-862633?style=for-the-badge&logo=probot&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Human--Robot%20Interaction-8B0029?style=for-the-badge&logo=probot&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Embodied%20AI-862633?style=for-the-badge&logo=probot&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Tele--operation%20Systems-8B0029?style=for-the-badge&logo=probot&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Level%20of%20Autonomy-862633?style=for-the-badge&logo=probot&logoColor=white&labelColor=0D1117" />
 </div>
 
 <br>
@@ -76,14 +82,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Junha02&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junha02&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Junha02&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=862633&title_color=862633&text_color=C9D1D9" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junha02&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=862633&text_color=C9D1D9" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Junha02&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="700" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Junha02&theme=dark&hide_border=true&background=0D1117&ring=862633&fire=8B0029&currStreakLabel=862633&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=C9D1D9&dates=8B949E" width="700" />
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:862633,100:8B0029&height=120&section=footer" width="100%" />
